@@ -18,4 +18,4 @@ Progress Tracker: View the progress of your tasks in the progress tracker.
 
 
 
-![Screenshot 2025-02-23 220152](https://github.com/user-attachments/assets/c4af7328-2c59-4114-9c51-3b2b640dae9e)
+![TaskBuddy](https://github.com/user-attachments/assets/129191c2-ecf0-4ed2-b7b1-5f39adfc388f)
